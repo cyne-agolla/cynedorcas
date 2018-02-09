@@ -1,0 +1,23 @@
+body{
+  background-image: url("https://lh3.googleusercontent.com/5WEsb2TumqRJRjaMKwFSRRNb6me1YicEMImV-W8JxF1O75zMCQX2Q3UD0hAcx9RFOGkd7bk=s136");
+  background-size:  cover;
+  text-align: center;
+  background-repeat: no-repeat;
+  color:white;
+}
+img {
+    border-radius: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+h1{
+  font-style: italic;
+  color:white;
+}
+h2{
+  font-style: italic;
+  color:white;
+}
+h3{
+  font-family: serif;
+}
